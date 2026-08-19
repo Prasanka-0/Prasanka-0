@@ -1,8 +1,8 @@
 <h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Prasanka Madhushan</h1>
 <p align="center">
-  <img src="./github_pixel_art_animated.gif"
+  <img src="https://raw.githubusercontent.com/Prasanka-0/Prasanka-0/main/animate_github_banner.gif"
        width="100%"
-       alt="Animated Pixel Art Developer Banner">
+       alt="Animated GitHub Banner">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=30&duration=3000&pause=1000&color=2986cc&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+Serverless+Enthusiast;Mobile+Application+Developer;AI+%2F+Machine+Learning+Explorer;Building+Ideas+Into+Real-World+Software" 
