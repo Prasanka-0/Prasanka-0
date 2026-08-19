@@ -1,4 +1,26 @@
-# 💫 About Me:
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="Hello, I'm Prasanka Madhushan!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+Serverless+Enthusiast;Mobile+Application+Developer;AI+%2F+Machine+Learning+Explorer;Building+Ideas+Into+Real-World+Software" 
+       alt="Typing SVG">
+</p>
+
+
+# 👋 Hello, I'm Prasanka Madhushan
+
+<p align="center">
+  <img src="./github_pixel_art_animated.gif"
+       width="100%"
+       alt="Animated Pixel Art Developer Banner">
+</p>
+
+
+
+---
+
+
+## 💫 About Me:
 I'm a Software Engineer with a strong interest in building scalable, user-focused applications across web, mobile, cloud, and intelligent systems.<br><br>🎓 BSc (Hons) Software Engineering — Second Class Upper Division<br>🎓 MSc in Computer Science<br><br>I enjoy turning ideas into real-world software using modern technologies, clean architecture, and cloud-based solutions.<br><br>💻 Full-Stack Web Development<br>📱 Mobile Application Development<br>☁️ AWS & Serverless Development<br>🤖 AI / Machine Learning Applications<br>🗄️ Database & Backend Engineering<br>🔄 CI/CD & Cloud Deployment<br>🧩 Problem Solving & System Design
 
 
